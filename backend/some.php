@@ -1,4 +1,4 @@
 <?php 
 
-echo "madrfakr"
+echo "something to return"
 ?>
